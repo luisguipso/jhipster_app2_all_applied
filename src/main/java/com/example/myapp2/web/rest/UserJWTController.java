@@ -4,7 +4,7 @@ import com.example.myapp2.security.jwt.JWTFilter;
 import com.example.myapp2.security.jwt.TokenProvider;
 import com.example.myapp2.web.rest.vm.LoginVM;
 import com.fasterxml.jackson.annotation.JsonProperty;
-import javax.validation.Valid;
+import jakarta.validation.Valid;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

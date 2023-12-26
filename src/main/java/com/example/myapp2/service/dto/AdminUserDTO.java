@@ -3,11 +3,14 @@ package com.example.myapp2.service.dto;
 import com.example.myapp2.config.Constants;
 import com.example.myapp2.domain.Authority;
 import com.example.myapp2.domain.User;
+import jakarta.validation.constraints.Email;
+import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.Pattern;
+import jakarta.validation.constraints.Size;
 import java.io.Serializable;
 import java.time.Instant;
 import java.util.Set;
 import java.util.stream.Collectors;
-import javax.validation.constraints.*;
 
 /**
  * A DTO representing a user, with his authorities.

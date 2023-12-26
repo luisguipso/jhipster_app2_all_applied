@@ -9,7 +9,7 @@ import com.example.myapp2.IntegrationTest;
 import com.example.myapp2.domain.User;
 import com.example.myapp2.repository.UserRepository;
 import com.example.myapp2.security.AuthoritiesConstants;
-import javax.persistence.EntityManager;
+import jakarta.persistence.EntityManager;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
