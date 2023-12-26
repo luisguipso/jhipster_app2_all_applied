@@ -73,14 +73,14 @@
     "packaging": "jar"
   },
   "dependencies": {
-    "@angular/common": "14.2.0",
-    "@angular/compiler": "14.2.0",
-    "@angular/core": "14.2.0",
-    "@angular/forms": "14.2.0",
-    "@angular/localize": "14.2.0",
-    "@angular/platform-browser": "14.2.0",
-    "@angular/platform-browser-dynamic": "14.2.0",
-    "@angular/router": "14.2.0",
+    "@angular/common": "14.3.0",
+    "@angular/compiler": "14.3.0",
+    "@angular/core": "14.3.0",
+    "@angular/forms": "14.3.0",
+    "@angular/localize": "14.3.0",
+    "@angular/platform-browser": "14.3.0",
+    "@angular/platform-browser-dynamic": "14.3.0",
+    "@angular/router": "14.3.0",
     "@fortawesome/angular-fontawesome": "0.11.1",
     "@fortawesome/fontawesome-svg-core": "6.2.0",
     "@fortawesome/free-solid-svg-icons": "6.2.0",
@@ -94,7 +94,7 @@
     "ngx-webstorage": "10.0.1",
     "rxjs": "7.8.1",
     "tslib": "2.6.2",
-    "zone.js": "0.11.6"
+    "zone.js": "0.14.2"
   },
   "devDependencies": {
     "@angular-builders/custom-webpack": "17.0.0",
@@ -102,8 +102,8 @@
     "@angular-devkit/build-angular": "14.2.13",
     "@angular-eslint/eslint-plugin": "17.1.1",
     "@angular/cli": "14.2.13",
-    "@angular/compiler-cli": "14.2.0",
-    "@angular/service-worker": "14.2.0",
+    "@angular/compiler-cli": "14.3.0",
+    "@angular/service-worker": "14.3.0",
     "@types/jest": "29.5.11",
     "@types/node": "20.10.5",
     "@typescript-eslint/eslint-plugin": "6.16.0",
